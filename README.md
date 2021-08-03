@@ -1,2 +1,2 @@
-# gis_deep_file
-# deep learning 정리본
+# 광인사 딥러닝 수업 정리
+
